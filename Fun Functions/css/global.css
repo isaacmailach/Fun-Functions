@@ -1,0 +1,19 @@
+@font-face {font-family:Intro; src:url('font/Intro.otf');}
+body {
+	font-family:sans-serif;
+	height: 100%;
+	width: 100%;
+}
+#title {
+    opacity:1;
+    transition:all 0.1s ease-out;
+}
+#title:hover {
+	opacity:0.5;
+}
+body,html,canvas,div
+{
+ 	overflow:hidden;
+	margin: 0;
+	padding: 0;	
+}

@@ -1,0 +1,37 @@
+body {
+	font-family:Intro, sans-serif;
+	margin:0;
+}
+#title {
+	width:30em;
+	margin:auto;
+	display:block;
+}
+table {
+	padding-top:2em;
+	margin:auto;
+}
+div {
+	height:6em;
+	width:7em;
+	font-size:2em;
+	border:1px solid gray;
+	border-radius:10px;
+	margin:0.5em;
+}
+.column1 {
+	float:right;
+}
+a {
+	text-decoration:none;
+	color:black;
+}
+footer {
+	height:3em;
+	width:100%;
+	background-color:#ECECEC;
+	position:absolute;
+	bottom:-3em;
+	font-size:0.75em;
+	text-align:center;
+}
